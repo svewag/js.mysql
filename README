@@ -1,3 +1,4 @@
 * start server.js via Node.js
 * open index.html on your browser
-* type "ls -l" e.g. in the lower input and see the result in the upper output area
+* in "server.js" the default database is set to "information_schema"
+* type "show tables" e.g. in the lower input and see the result in the upper output area
